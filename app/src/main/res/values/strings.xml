@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">calculator</string>
+
+    <string name="credits">Project Made By - Hirnaymay Bhaskar</string>
+    <string name="pitch">Pitch</string>
+    <string name="speed">Speed</string>
+    <string name="speak">Speak</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+    <string name="clear">AC</string>
+    <string name="exponent">^</string>
+    <string name="e">e</string>
+    <string name="underroot">√</string>
+    <string name="pi">π</string>
+    <string name="parentheses">( )</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="subtract">-</string>
+    <string name="equals">=</string>
+    <string name="point">.</string>
+    <string name="percentage">%</string>
+    <string name="add">+</string>
+
+    <string name="backspace">&lt;-</string>
+
+    <string name="display">|</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="calculator">Calculator</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="text_to_speech">Text-To-Speech</string>
+    <string name="torch">Torch</string>
+    <string name="wifi">WiFi</string>
+</resources>
